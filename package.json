@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "HOMEWORK 1: BASICS. NODEJS FUNDAMENTAL THEORY",
   "scripts": {
-    "task1": "ts-node src/task1.ts",
-    "task2": "ts-node src/task2.ts",
+    "task1": "nodemon src/task1.ts",
+    "task2": "nodemon src/task2.ts",
     "build": "tsc"
   },
   "author": "Dmitry Kovalkov",
